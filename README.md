@@ -9,7 +9,7 @@
   - [Steganography](https://codepen.io/sihabrahman/full/gOxvRLR)
   - [Personal Portfolio Webpage](https://codepen.io/sihabrahman/full/woNKve)
  
-<h2>👨‍💻 Other Projects:</h2>
+<h2>🧑‍💻 Other Projects:</h2>
 
 - <b>Python</b>
   - [Object count in yolov5 (Modified version of yolov5)](https://github.com/sihabrahman/Object-count-in-yolov5)
