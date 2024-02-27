@@ -16,9 +16,8 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin] c
-<img src="https://www.flaticon.com/free-icon/instagram_174855?term=instagram&page=1&position=3&origin=search&related_id=174855" alt="img1" height="20px"> 
-<a href="https://www.flaticon.com/free-icons/instagram" title="instagram icons">Instagram icons created by Freepik - Flaticon</a> [Instagram] <a href="https://www.instagram.com/sihab_was_here/">
+<img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="linkedin" height="15px"> <a href="https://www.linkedin.com/in/sihabrahman/"> <b>Linkedin</b> </a> <br/>
+<img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="instagram" height="15px"> <a href="https://www.instagram.com/sihab_was_here/"> <b>Instagram</b> </a>
 
 
 <!--
