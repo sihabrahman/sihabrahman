@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sihab! <br/><a href="https://www.linkedin.com/in/sihabrahman/">Cybersecurity Professional</a>, <a href="https://github.com/sihabrahman">Front-End Dev</a>, <a href="https://www.behance.net/sihabrahman">Designer</a></h1>
+<h1>Hi, I'm Sihab! <br/><a href="https://www.linkedin.com/in/sihabrahman/">IT Professional</a>, <a href="https://github.com/sihabrahman">Front-End Dev</a>, <a href="https://www.behance.net/sihabrahman">Designer</a></h1>
 
 <h2>👨‍💻 Front-End Projects:</h2>
 
